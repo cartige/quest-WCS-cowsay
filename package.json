@@ -1,0 +1,21 @@
+{
+  "name": "quest-wcs-cow",
+  "version": "1.0.0",
+  "description": "quest node wcs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "quest-cow-say"
+  },
+  "keywords": [
+    "cow"
+  ],
+  "author": "gerald",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
